@@ -1,0 +1,11 @@
+{
+  "name": "render",
+  "version": "1.0.0",
+  "description": "render with vanilla",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weider Lima <weider86@gmail.com>",
+  "license": "ISC"
+}
